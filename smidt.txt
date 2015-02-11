@@ -1,9 +1,13 @@
 This is the log files for Assignment 4 (part 2) by Jesse Smidt.
 
 Start: Tue, 10 Feb 2015 16:30:00 +0000
-End: Tue, 03 Feb 2015 17:15:00 +0000
+End: Tue, 10 Feb 2015 17:15:00 +0000
 Task: Initial commit and .gitignore setup
 
-Start: Tue, 03 Feb 2015 17:15:00 +0000
-End: Tue, 03 Feb 2015 21:00:00 +0000
+Start: Tue, 10 Feb 2015 17:15:00 +0000
+End: Tue, 10 Feb 2015 21:00:00 +0000
 Task: Begin database setup, ran it to issues accessing database through mySQL prepared statements
+
+Start: Tue, 11 Feb 2015 15:00:00 +0000
+End: Tue, 11 Feb 2015 21:15:00 +0000
+Task: Re-worked approach to assignment - all implementation now in video.php
